@@ -13,6 +13,10 @@
 		BA4EB4C41D2B80330005F8BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4C21D2B80330005F8BD /* Main.storyboard */; };
 		BA4EB4C61D2B80330005F8BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4C51D2B80330005F8BD /* Assets.xcassets */; };
 		BA4EB4C91D2B80330005F8BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4C71D2B80330005F8BD /* LaunchScreen.storyboard */; };
+		BA4EB4D41D2B805D0005F8BD /* 01.tiff in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4D01D2B805D0005F8BD /* 01.tiff */; };
+		BA4EB4D51D2B805D0005F8BD /* 02.tiff in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4D11D2B805D0005F8BD /* 02.tiff */; };
+		BA4EB4D61D2B805D0005F8BD /* 03.tiff in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4D21D2B805D0005F8BD /* 03.tiff */; };
+		BA4EB4D71D2B805D0005F8BD /* 04.tiff in Resources */ = {isa = PBXBuildFile; fileRef = BA4EB4D31D2B805D0005F8BD /* 04.tiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		BA4EB4C51D2B80330005F8BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA4EB4C81D2B80330005F8BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA4EB4CA1D2B80330005F8BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA4EB4D01D2B805D0005F8BD /* 01.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 01.tiff; sourceTree = "<group>"; };
+		BA4EB4D11D2B805D0005F8BD /* 02.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 02.tiff; sourceTree = "<group>"; };
+		BA4EB4D21D2B805D0005F8BD /* 03.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 03.tiff; sourceTree = "<group>"; };
+		BA4EB4D31D2B805D0005F8BD /* 04.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 04.tiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 		BA4EB4B81D2B80330005F8BD /* 图片动画 */ = {
 			isa = PBXGroup;
 			children = (
+				BA4EB4D01D2B805D0005F8BD /* 01.tiff */,
+				BA4EB4D11D2B805D0005F8BD /* 02.tiff */,
+				BA4EB4D21D2B805D0005F8BD /* 03.tiff */,
+				BA4EB4D31D2B805D0005F8BD /* 04.tiff */,
 				BA4EB4BC1D2B80330005F8BD /* AppDelegate.h */,
 				BA4EB4BD1D2B80330005F8BD /* AppDelegate.m */,
 				BA4EB4BF1D2B80330005F8BD /* ViewController.h */,
@@ -139,6 +151,10 @@
 				BA4EB4C91D2B80330005F8BD /* LaunchScreen.storyboard in Resources */,
 				BA4EB4C61D2B80330005F8BD /* Assets.xcassets in Resources */,
 				BA4EB4C41D2B80330005F8BD /* Main.storyboard in Resources */,
+				BA4EB4D71D2B805D0005F8BD /* 04.tiff in Resources */,
+				BA4EB4D61D2B805D0005F8BD /* 03.tiff in Resources */,
+				BA4EB4D51D2B805D0005F8BD /* 02.tiff in Resources */,
+				BA4EB4D41D2B805D0005F8BD /* 01.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
